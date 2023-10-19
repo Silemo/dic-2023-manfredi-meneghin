@@ -1,11 +1,11 @@
-# Titanic: Distibuted Machine Learning from Disaster <!-- omit in toc -->
+# Titanic: Spark and Machine Learning from Disaster <!-- omit in toc -->
 
 [![license: GPL3][license-img]][license-link]
 ![latest commit](https://img.shields.io/github/last-commit/Silemo/dic-2023-manfredi-meneghin)
 
 ## About <!-- omit in toc -->
 
-Titanic: Distibuted Machine Learning from Disaster is a project of **Data Intensive Computing (ID2221)**, course of Data Science held at KTH - Royal Institute of Technology (Period 1, 2023/2024).
+Titanic: Spark and Machine Learning from Disaster is a project of **Data Intensive Computing (ID2221)**, course of Data Science held at KTH - Royal Institute of Technology (Period 1, 2023/2024).
 
 **Professor** Amir Hossein Payberah
 
